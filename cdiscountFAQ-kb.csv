@@ -1,0 +1,124 @@
+Question;Answer
+Qu'est-ce que Cdiscount Marketplace?;Cdiscount Marketplace est une place de marché qui permet à des vendeurs professionnels de vendre leurs produits neufs ou d’occasion à des acheteurs particuliers ou professionnels sur le site Cdiscount.com.
+Quels sont mes engagements lorsque je vends sur Cdiscount Marketplace ?;Pour garantir aux clients une qualité de service au même niveau que celle aujourd’hui offerte par Cdiscount, les vendeurs s’engagent sur un certain nombre d’éléments que vous pouvez consulter ici et sont monitorés par des indicateurs de qualité disponibles à tout moment sur l’Espace Vendeur.
+Comment m’inscrire et créer mon compte vendeur professionnel ?;C'est très simple, il vous suffit de suivre pas à pas notre notre formulaire d’inscription qui est disponible à ce lien (https://marketplace-registration.cdiscount.com/). Pour connaître toutes les pièces à fournir, cliquez sur ce lien (https://marketplace.cdiscount.com/wp-content/uploads/2020/05/20170612_Appendix-3_Registration-documents-verification-v3.0.pdf).
+Comment suis-je accompagné lors de mes débuts sur Cdiscount Marketplace ?;Dans un premier temps un chargé de compte vous accompagne pendant votre premier mois pour vous familiariser au fonctionnement de notre marketplace. En plus de cela notre support vendeur est joignable par téléphone ou grâce à un système de requête depuis votre espace vendeur. Nous mettons également à votre disposition des webinars animés par nos équipes et des articles d'aide en ligne.
+Quels produits puis-je vendre?;"Presque toutes les catégories de produits peuvent être vendues sur Cdiscount Marketplace ! Vous retrouverez leur liste à cette page (https://marketplace.cdiscount.com/wp-content/uploads/2020/05/Liste-des-cat%C3%A9gories-de-produits.pdf).
+Attention : certaines catégories de produits sont interdites à la commercialisation sur notre marketplace. Vous trouverez ces produits dans la Charte de Bonnes Pratiques (https://marketplace.cdiscount.com/wp-content/uploads/2020/05/Charte-des-Bonnes-Pratiques-Cdiscount-Marketplace-FR.pdf)."
+Comment metttre mes produits en vente ?;"Dès que vous avez soumis votre formulaire d'inscription vous pourrez télécharger votre catalogue produits et/ou vos offres dans votre espace vendeur.
+Vous n’aurez plus qu’à renseigner vos stocks disponibles, l’état des produits (neuf ou occasion) et fixer vous-même vos prix de vente. Une fois votre inscription validée et votre compte activé, vous publiez vos offres, elles apparaissent sur le site Cdiscount.com et sont visibles par les clients.
+Vous pouvez tout faire depuis votre Espace Vendeur ou bien passer par notre API."
+Quelles sont les conditions tarifaires pour être vendeur professionnel ?;"L’abonnement mensuel est de *39,99 €HT pour vendre à nos clients particuliers et professionnels sur www.cdiscount.com.
+Votre abonnement prendra effet dès que vous aurez terminé le processus d’inscription. Les mensualités d’abonnement viennent en déduction des gains que vous réalisez en faisant des ventes sur le site, et sont exigibles le 1er de chaque mois.
+Cdiscount prélève également une commission sur chaque vente effectuée sur le site, dont le taux dépend de la catégorie de produit concernée. (Voir l’onglet Tarifs)
+Votre paiement se composera donc de :
+– Versement des ventes
+– Déduction des commissions
+– Déduction de l’abonnement
+= Paiement du solde.
+Cdiscount propose également des « Abonnements Premiums » permettant d’accéder à des services complémentaires pour augmenter la visibilité de vos offres et toucher une plus large audience. Vous trouverez ici (https://marketplace.cdiscount.com/service/abonnements-premium/) les informations sur ces Abonnements Premium."
+Est-ce que je peux vendre uniquement aux particuliers ?;Si vous souhaitez vendre uniquement aux particuliers, il vous suffit de décocher l'option de publication de vos offres dans la rubrique abonnements de vos paramètres boutiques.
+Comment mettre fin à mon abonnement sur Cdiscount Marketplace ?;"Vous pouvez mettre un terme à votre abonnement à tout moment, l’inscription ne requiert aucun engagement. Contactez-nous par le biais de votre Espace vendeur pour résilier votre compte. La résiliation prend effet à la fin du mois en cours.
+Attention, votre Espace Vendeur demeure accessible pendant 3 mois, pendant lesquels vous devez continuer à gérer la relation avec vos clients."
+Comment suis-je payé ?;"Cdiscount débite le client une fois que la commande est acceptée par vos soins. Dès que la vente est réalisée et l'expédition confirmée, Cdiscount reverse les gains tous les 10 jours.
+Pour recevoir le règlement de vos ventes, vous devez :
+– avoir un solde positif sur votre compte vendeur Cdiscount, sachant que les réclamations clients ainsi que les remboursements que vous effectuez dans le cadre de ces réclamations affectent votre solde.
+– avoir renseigné un numéro de compte bancaire valide dans votre compte vendeur."
+Comment me connecter par API?;"Dès que vous aurez soumis votre formulaire d'inscription, vous recevrez vos identifiants pour vous connecter à votre espace vendeur, rendez-vous dans la partie ""Réglages"" puis ""Vos données personnelles et bancaires"" et ""Paramètres de connexions"" et vous trouverez vos paramètres de connexions à l'API. Pour tout savoir sur notre site API (https://dev.cdiscount.com/marketplace/)."
+Qu'est-ce que l'espace vendeur ?;"L’interface vendeur vous permet de gérer l’ensemble de vos opérations sur la Marketplace Cdiscount:
+– Création et personnalisation de votre boutique Cdiscount
+– Gestion du catalogue (intégration des produits à vendre dans le catalogue Cdiscount et mise à jour de vos stocks)
+– Gestion des commandes passées par les clients
+– Suivi de vos indicateurs clés
+– Gestion de la relation avec les clients
+– Suivi comptable (facturation et paiements)
+– Suivi de l’activité Fulfilment"
+Comment gérer mes commandes ?;Lorsqu’un client passe une commande sur l’un de vos produits, vous êtes informé par email de la commande. Vous devez alors la traiter dans les 2 jours ouvrés. Vous pouvez gérer facilement vos commandes (accepter ou refuser une commande, gérer les remboursements, confirmer l’expédition des produits, traiter les demandes et réclamations des clients…) via l’onglet « Commandes » de votre Espace vendeur, ou via l’API.
+Comment gérer une réclamation ?;"Vous disposez d'un guide détaillant la relation acheteur vendeur dans votre espace vendeur.
+Dans le cas d'une vente à un client professionnel, ce dernier ne bénéficie pas de délai de rétractation. La politique de retour est donc à la discrétion du vendeur professionnel."
+Pourquoi les évaluations de la clientèle sont-elles importantes ?;Les notes des clients permettent de récolter des avis sur votre boutique et ainsi de rassurer les futurs acheteurs. Les clients sont fortement incités à laisser des évaluations et des commentaires après avoir passé commande chez les vendeurs partenaires.
+Comment paramétrer mon pays d'expédition ?;"La configuration doit être effectuée dans votre espace vendeur. L’intégralité de vos commandes doit être effectuée depuis le pays que vous souhaitez choisir comme pays d’expédition. Si vous expédiez depuis plusieurs pays, vous devez paramétrer le pays avec le plus long délai d’expédition (ex: vous expédiez 90% de France et 10% de Chine, vous devez déclarer Chine comme pays d’expédition).
+Vous pouvez paramétrer votre pays d’expédition dans l’onglet « Réglages » de votre espace vendeur, sélectionnez ensuite « Vos données personnelles et bancaires » dans le menu déroulant. Lorsque vous êtes sur cette page sélectionner ensuite sur l’onglet « Informations commerciales », sur cette page une section est dédiée aux réglages du pays d’expédition."
+Quelles sont mes obligations fiscales et sociales en tant que vendeur à des clients particuliers ou professionnels ?;"Que vos clients soient professionnels ou particuliers, les revenus générés par l’intermédiaire de Cdiscount Marketplace doivent être déclarés à l’administration fiscale.
+En outre, les revenus sont soumis à cotisations sociales et entraînent l’affiliation à un régime de sécurité sociale.
+Nous vous invitons à prendre connaissance des fiches mises en place par les administrations afin de connaître les règles applicables à la déclaration de revenus, la déclaration d’activité et au paiement des cotisations sociales :
+Obligations fiscales : https://www.impots.gouv.fr/portail/node/10841
+Obligations sociales : https://www.urssaf.fr/portail/home/espaces-dedies/activites-relevant-de-leconomie.html
+Ces obligations s’appliquent à l’égard des utilisateurs de plateforme résidant en France ou qui réalisent des ventes ou des prestations en France au sens des articles 258 à 259 D du Code général des impôts français.
+En cas de manquement à ces obligations, nous vous rappelons que vous encourrez des sanctions.
+Il s’agit là d’un simple rappel des obligations qui vous incombent. En cas de besoin, nous vous invitons à vous rapprocher de professionnels susceptibles de vous accompagner dans le respect de vos obligations légales."
+Qu'est ce que le service Cdiscount Fulfilment et pourquoi le rejoindre?;"Fort de notre expérience de e-commerçant et disposant d’une logistique performante (+500 000 m2 de stockage, robotisation, emballage, transport,…), notre service Fulfilment vous permet de bénéficier de la puissance logistique de Cdiscount.
+Vous approvisionnez nos entrepôts des produits destinés à la vente et nous nous occupons du reste : stockage, préparation, emballage, livraisons, retours et gestion de la relation client.
+Les avantages sont :
+• Le gain en visibilité de vos offres grâce à la mention « Expédié par Cdiscount »
+• Vous n’avez plus à livrer chaque client et pouvez massifier vos expéditions vers une adresse unique de livraison (l’un de nos entrepôts).
+• Le gain de temps sur la livraison qui vous permet de vous concentrer sur vos ventes.
+• La possibilité de livrer vos commandes reçues sur toutes vos plateformes de ventes, en France et en Europe.
+• L’accès à 100% des modes de livraison Cdiscount (Point retraits, express et domicile Cdiscount)
+• L’éligibilité de vos produits au programme de fidélité Cdiscount à Volonté (produits de moins de 30 kg et de développé (Longueur + Largeur + Profondeur) de moins de 2 m)
+• La gestion des retours client durant le délai de rétractation par Cdiscount
+• Un service sans abonnement et sans frais d’inscription"
+Comment s’inscrire à Cdiscount Fulfilment?;Vous pouvez vous inscrire en remplissant le formulaire de contact disponible ici (https://marketplace.cdiscount.com/fulfilment-pas-de-compte/).
+Y a-t-il un minimum de références à vous confier pour utiliser le service Cdiscount Fulfilment?;Non, nous proposons la possibilité d’externaliser tout ou partie de votre logistique et Gestion de la Relation Client associée. Lors de vos échanges avec l’équipe Cdiscount Fulfilement, vous pourrez définir ensemble la typologie de produits les plus profitables pour vous.
+Dans quels entrepôts seront stockés mes produits ?;"Cela dépend de la catégorie de vos produits. Chez Cdiscount il y a 2 catégories :
+• Les petits produits (Poids < 30 kg et ayant un développé (Longueur + Largeur + Profondeur) < 2 M ) seront stockés sur notre Centre logistique de Cestas (Dépt : 33). • Les produits volumineux (Poids > 30 kg ou ayant un développé (Longueur + Largeur + Profondeur) > 2 M ) seront stockés sur nos deux Centres d’Andrézieux (Dépt : 42) et Saint Mard (Dépt 77).
+Nos bâtiments modernes disposent de processus de préparation, d’emballage et d’expédition de qualité et automatisé. L’ensemble des opérations sont tracées et suivies en temps réel. Le personnel présent justifie d’une expérience significative dans la logistique e-commerce. Par ailleurs, les sites sont sécurisés et disposent de personnel de sécurité 24h/24h."
+Quel est le poids maximal ou le développé maximal qui sont autorisés pour le traitement d’un article ?;Nous traitons les articles de 0 à 180 kg. Le développé maximal (longueur + largeur + hauteur) est de 5 mètres. Cependant, certaines typologies soumises à réglementation spécifiques ne seront pas acceptées (produits inflammables ou contenant de l’alcool par exemple), nous vous invitons à prendre contact avec le service commercial si vous vendez des produits avec des caractéristiques spécifiques.
+Comment sont traitées mes commandes clients ?;"Votre commande est traitée comme une commande Cdiscount, à l’exception de la gestion de la relation client qui est de votre responsabilité.
+En période de forte activité vous bénéficierez de la puissance logistique de Cdiscount avec des entrepôts en activité 24h/24h et 7j/7J."
+Quels sont les modes et les délais de livraison de mes commandes clients ?;"Ventes réalisées sur Cdiscount :
+Les modes de livraison qui vous sont mis à disposition sont ceux du site Cdiscount, à savoir :
+– Pour les produits de moins de 30 kgs : et 2m de développé : la livraison en points retraits, à domicile et en « express »,
+– pour les produits de plus de 30kg et 2m de développé, la livraison en point relais gros colis et la livraison à domicile sont disponibles (en bas de l’immeuble/à domicile/a domicile + installation).
+Les délais de livraison seront ceux correspondant au mode de livraison choisi par votre client.
+Ventes réalisées sur une autre plateforme :
+Pour une commande passée sur une Marketplace externe ou sur votre site, la livraison se fait au domicile du client, dans un délai de 5 jours ouvrés.
+Les modes de livraison qui vous sont mis à disposition sont :
+– pour les produits de moins de 30 kgs : et 2m de développé : La livraison standard en France et en Europe
+– les livraisons express pour les commandes passées en France."
+Quelles destinations livrez-vous?;"Pour les commandes passées sur Cdiscount
+Nous livrons en France métropolitaine / Corse / Monaco mais aussi l’Espagne, l’Italie, l’Allemagne, la Belgique et le Luxembourg.
+Pour les commandes passées sur une autre plateforme
+Nous livrons la France mais aussi plus de 20 pays Européens. Cliquez ici (https://marketplace.cdiscount.com/service/fulfilment-externe/) pour en savoir plus."
+Puis-je utiliser mon stock Cdiscount et le service Fulfilment pour livrer mes ventes sur d’autres plateformes ?;Oui, grâce à notre service commandes externes, vous pouvez utiliser notre solution Fulfilment pour expédier vos produits sur toutes vos plateformes de vente. Vous nous transmettez les informations liées à la commande, nous gérons pour vous la préparation, l’expédition et le support sur les sujets liés à la logistique. Trouvez toutes les informations sur notre page dédiée ici (https://marketplace.cdiscount.com/service/fulfilment-externe/).
+Mes produits sont-ils mis en avant sur le site Cdiscount.com ?;"Oui, dès lors que vos produits portent la mention Cdiscount Fulfilment ils gagneront en visibilité par le biais d’un filtre spécifique (""expédié par Cdiscount""). De plus ils profiteront de la mise en avant de la Livraison gratuite s’ils y sont éligibles (montant du panier supérieur à 25€)."
+Comment piloter mon activité logistique ?;"Au sein de votre Espace Vendeur, vous aurez accès à une interface dédiée à votre activité logistique. Cela vous permettra de référencer des produits, de suivre votre niveau de stock, de connaitre vos meilleures ventes, etc.
+Nos conseillers Cdiscount Fulfilment seront également disponibles pour vous accompagner dans votre activité sur la marketplace."
+Qu’est-ce que Cdiscount Ads ?;Cdiscount Ads est un ensemble de solutions vous permettant de gagner en visibilité aussi bien pour votre boutique que pour une selection de vos produits.
+Quelles solutions proposez-vous ?;Nous proposons de multiples solutions permettant de générer davantage de trafic vers vos fiches produits, comme les produits sponsorisés sur le moteur de recherche, ou une mise en avant sur la page d’accueil de Cdiscount.com. Nous proposons également des solutions de Bon de Réduction Intelligent, pour générer davantage de conversions.
+Comment vendre à l’international ?;"Vous souhaitez vous inscrire, c’est simple vous pouvez le faire en 3 clics depuis l'Espace Vendeur : Il suffit d’aller dans la rubrique « Réglages > Vos Choix d’expédition > Cocher la case « Livraison Internationale » »
+Lorsque vous cochez cette case, l’ensemble de votre catalogue devient éligible à la vente à l’international (offres Fulfilment incluses à l’exception des produits de plus de 30 kg en dehors de la Belgique).
+Vous pourrez paramétrer vos frais d'expéditions depuis votre espace vendeur."
+Dans quels pays est-il possible de vendre en dehors de la France ?;"Cdiscount a ouvert sa Marketplace à plus de 200 millions de consommateurs européens en Belgique, Allemagne, Espagne, Luxembourg et Italie.
+En cochant la case « Livraison Internationale », tout votre catalogue devient visible pour les consommateurs souhaitant se faire livrer en Belgique, Italie, Allemagne, Espagne, Luxembourg.
+Vous acceptez de livrer vos produits dans un ou plusieurs de ces 5 pays et pourrez paramétrer vos frais de port."
+Y a-t-il un surcoût ?;Non, cette option de livraison à l’international est gratuite.
+Comment configurer les prix de vente et d’expédition pour l’international ?;"Le prix de vente TTC que vous renseignez dans votre espace vendeur est unique. Nous offrirons bientôt la possibilité de différencier ce dernier par pays. Le taux de TVA dont vous devrez vous acquitter peut varier d’un pays à l’autre.
+Concernant les frais de port, vous pouvez appliquer des frais de livraison supplémentaires vers les pays européens. Rendez-vous dans « Réglages > Vos choix d’expédition ».
+Ces frais seront additionnés aux frais principaux et additionnels définis sur chacune de vos offres. Le montant des frais supplémentaires est commun à tous les pays européens.
+Vous pouvez définir un montant différent en fonction du gabarit de produit (colis standard vs colis volumineux).
+Pour rappel, seule la Belgique est éligible à la livraison de vos produits Fulfilment de + de 30kg"
+Dans quelle langue assurer ma gestion de la relation client ?;Quel que soit le pays de livraison, le site Cdiscount.com étant en français, la gestion de la relation client s’effectue toujours en français.
+Quels sont les modes et délais de livraison pour l’international ?;"Les modes de livraison éligibles à l’international sont les mêmes que ceux que vous avez définis pour vos expéditions en France sur la livraison à domicile. La livraison en point retrait et le retrait en magasin ne sont pas disponibles pour les commandes internationales.
+Les délais de livraison indiqués sont calculés en fonction du pays d’expédition que vous avez sélectionné dans vos paramètres boutique et du pays de livraison de la commande.
+Le délai qui est communiqué au client est la somme des délais de préparation (que vous avez renseignés pour chaque offre) et du délai de livraison en fonction des pays d’expédition et de livraison. Il est exprimé en jours ouvrés.
+Colis standard?:
+Vous livrez dans votre pays d’expédition?? 1 à 3 jours
+Vous expédiez depuis un pays d’Europe à destination d’un autre pays d’Europe ? 2 à 7 jours
+Vous expédiez depuis un pays hors de l’Europe?? 10 à 20 jours
+Colis volumineux?:
+Vous livrez dans votre pays d’expédition?? 2 à 7 jours
+Vous expédiez depuis un pays d’Europe à destination d’un autre pays d’Europe ? 3 à 10 jours
+Vous expédiez depuis un pays hors de l’Europe?? 10 à 20 jours"
+Quelles sont les spécificités pour vendre aux professionnels ?;"Une seule publication de vos offres est nécessaire pour commercialiser auprès des clients particuliers et professionnels sur Cdiscount.com.
+La gestion de vos commandes, la livraison des produits mais aussi la gestion de la relation client sont identiques.
+Il existe deux spécificités majeures :
+- Les clients professionnels ont besoin d'une facture en bonne et due forme pour chaque commande, fournis systèmatiquement par le vendeur
+- Il n'existe pas de délai de rétractation pour la vente à distance aux clients professionnels."
+Est-ce que je peux vendre uniquement aux professionnels ?;Non vous ne pouvez pas vendre uniquement aux vendeurs professionnels.
+Est-ce que je peux vendre uniquement aux particuliers ?;Si vous souhaitez vendre uniquement aux particuliers, il vous suffit de décocher l'option de publication de vos offres dans la rubrique abonnements de vos paramètres boutiques.
+Qu'est-ce que Cdiscount à Volonté ?;"Cdiscount à volonté (ou CDAV) est un abonnement annuel proposé aux clients Cdiscount permettant d’avoir la livraison express gratuite* et illimitée sur tous les produits vendus par Cdiscount, ou livrés par Cdiscount Fulfilment, ou livrés en express via Cdiscounr Express Seller. Vos offres éligibles portent le logo Cdiscount à Volonté et sont mise en avant sur la page d’accueil lors des grands évènements : Black Friday, Soldes, …
+*A l'exception des produits volumineux (Poids > 30 kg ou ayant un développé (Longueur + Largeur + Profondeur) > 2 M)"
+Comment rendre mes offres éligibles à Cdiscount à Volonté ?;"Vous pouvez rendre vos produits éligibles à notre programme Cdiscount à Volonté de deux façons différentes.
+Soit en bénéficiant de notre expertise logistique avec Cdiscount Fulfilment (https://marketplace.cdiscount.com/service/cdiscount-fulfilment/). Vous nous confiez votre stock, nous gérons l'intégralité de vos commandes (préparation, emballage, livraison et gestion de la relation client) pendant que vous pilotez vos ventes et vos stocks depuis votre espace vendeur.
+Soit en maîtrisant les expéditions en express avec Cdiscount Express Seller (https://marketplace.cdiscount.com/service/express-sellers/). Vous vous inscrivez à ce programme, nous contrôlons la qualité de vos livraisons puis nous validons votre inscription. Vous pourrez ainsi commencer à paramétrer vos offres et à préparer vos commandes express le jour même pour livraison le lendemain. Pour cela, vous pouvez utilisez vos propres contrats transporteurs pour l'expédition."
